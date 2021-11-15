@@ -1,19 +1,14 @@
+body {
+  padding: 30px 0;
+}
 .App {
   text-align: center;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
 
 .title {
   color:rgb(172, 219, 213);
   /* margin:30px; */
   font-family: 'Bigelow Rules', cursive;
   font-size: 92px;
-}
-.App-link {
-  color: #61dafb;
 }
